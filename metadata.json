@@ -1,0 +1,5 @@
+{
+  "name": "CSS Master - 基础属性可视化学习",
+  "description": "一个互动的CSS学习平台，分类展示常用CSS属性。通过实时调节参数，直观理解盒模型、Flex布局、定位、排版等核心概念。内置AI助手辅助解释复杂属性。",
+  "requestFramePermissions": []
+}
